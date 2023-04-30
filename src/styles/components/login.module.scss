@@ -1,0 +1,30 @@
+.loginContainer{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 200 auto;
+	height: 100vh;
+
+  .loginCard{
+    display: flex;
+    max-width: 400px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .register{
+    margin-left: 10px;
+    color: #2cc9d5; 
+  }
+  .submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .dontAccount{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

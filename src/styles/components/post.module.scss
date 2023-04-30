@@ -1,0 +1,8 @@
+.postWrapper{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 200 auto;
+	height: calc(100vh - 100px);
+  flex-direction: column;
+}
