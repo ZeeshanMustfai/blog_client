@@ -9,7 +9,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-  "proxy": "https://blogserver-production-0515.up.railway.app/api",
+  "proxy": "https://blogserver-production-0515.up.railway.app",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@nextui-org/react": "^1.0.0-beta.12",
