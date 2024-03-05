@@ -1,5 +1,6 @@
 {
   "name": "vite-package",
+  "homepage": "https://blog-client-gold.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
